@@ -1,6 +1,6 @@
 
 
-const About = () => {
+export const About = () => {
   return (
     <div className="bg-white p-8">
       <div className="text-center">
@@ -74,4 +74,3 @@ const About = () => {
   );
 };
 
-export default About;
