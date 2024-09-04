@@ -6,7 +6,7 @@ import { IoStar } from "react-icons/io5";
 const Review = () => {
   const reviews = reviewsData.reviews;
   return (
-    <div className="w-[100vw] overflow-x-hidden h-auto relative flex flex-col justify-center items-center gap-[4vh] mt-[20vh] mb-[15vh]">
+    <section className="w-[100vw] overflow-x-hidden h-auto relative flex flex-col justify-center items-center gap-[4vh] mt-[20vh] mb-[15vh]" id="reviews">
       <div className="absolute left-0 -top-[250px] hidden md:hidden lg:block xl:block">
         <img src="" alt="midLeft" />
       </div>
@@ -41,7 +41,7 @@ const Review = () => {
         ))}
       </div>
     
-    </div>
+    </section>
   );
 };
 

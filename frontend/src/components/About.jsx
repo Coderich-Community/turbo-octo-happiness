@@ -2,10 +2,10 @@
 
 export const About = () => {
   return (
-    <div className="bg-white p-8">
+    <section className="bg-white p-8" id="aboutus">
       <div className="text-center">
         <h2 className="text-orange-500 font-bold">GROW NATURALLY</h2>
-        <h1 className="text-4xl font-bold text-green-900 mt-4 text-2xl">
+        <h1 className="text-4xl font-bold text-green-900 mt-4">
           Welcome to AgriLink
         </h1>
         <p className="text-gray-700 mt-4 font-semibold text-lg">
@@ -70,7 +70,7 @@ export const About = () => {
           </p>
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 

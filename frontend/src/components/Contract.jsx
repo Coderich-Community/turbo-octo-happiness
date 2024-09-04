@@ -2,10 +2,10 @@
 
 export const Contract = () => {
   return (
-   <div className="">
+   <section className="" id="services">
      <div className="max-w-sm rounded overflow-hidden shadow-lg">
       <img
-        className="w-15 h-17 flex flex justify-center"
+        className="w-15 h-17 flex justify-center"
         src="https://cdn-icons-png.flaticon.com/256/2666/2666501.png"
         alt="Contact Farming"
       />
@@ -21,7 +21,7 @@ export const Contract = () => {
         </button>
       </div>
     </div>
-   </div>
+   </section>
   );
 };
 

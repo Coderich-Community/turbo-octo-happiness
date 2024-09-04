@@ -1,5 +1,5 @@
 
-import About from "../components/About"
+import { About } from "../components/About"
 import { ContactUs } from "../components/ContactUs"
 import { Contract } from "../components/Contract"
 import { Corousel } from "../components/Corousel"
@@ -10,7 +10,7 @@ import Review from "../components/Review"
 export const Home = () =>{
 
 
-    return <div className="">
+    return <section className="" id="home">
            <Navbar/>
            <Corousel /> 
            <About/>
@@ -20,5 +20,5 @@ export const Home = () =>{
            </div>
            <ContactUs/> 
            <Footer /> 
-         </div>
+         </section>
 }
