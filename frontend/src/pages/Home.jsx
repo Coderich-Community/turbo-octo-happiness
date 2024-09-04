@@ -20,7 +20,6 @@ export const Home = () =>{
            </div>
            <ContactUs/>
           <div className="">
-          <Footer/>
           </div>
          </div>
 }
