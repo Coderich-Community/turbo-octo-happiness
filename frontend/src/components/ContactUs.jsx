@@ -2,7 +2,7 @@
 
 export const ContactUs = () => {
   return (
-    <div>
+    <div className="">
     <div className="flex flex-col md:flex-row items-start">
       {/* Left Section - Contact Details */}
       <div className="bg-green-700 text-white p-8 md:w-1/3 w-full">

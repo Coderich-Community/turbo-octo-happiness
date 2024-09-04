@@ -27,7 +27,7 @@ const About = () => {
       <div className="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
         <div className="text-center">
           <img
-            src="./assets/item2.png"
+            src="https://krishiunnati.org/wp-content/uploads/2020/06/icons8-natural-food-64-1.png"
             alt="Natural Products"
             className="mx-auto"
           />
@@ -38,7 +38,7 @@ const About = () => {
         </div>
         <div className="text-center">
           <img
-            src=""
+            src="https://krishiunnati.org/wp-content/uploads/2020/06/icons8-cow-64.png"
             alt="Cattle"
             className="mx-auto"
           />
@@ -49,7 +49,7 @@ const About = () => {
         </div>
         <div className="text-center">
           <img
-            src="wheat-cultivation-icon.png"
+            src="https://krishiunnati.org/wp-content/uploads/2020/06/icons8-wheat-64.png"
             alt="Wheat Cultivation"
             className="mx-auto"
           />
@@ -60,7 +60,7 @@ const About = () => {
         </div>
         <div className="text-center">
           <img
-            src="modern-truck-icon.png"
+            src="https://krishiunnati.org/wp-content/uploads/2020/06/icons8-semi-truck-64.png"
             alt="Modern Truck"
             className="mx-auto"
           />
