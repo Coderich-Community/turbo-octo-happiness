@@ -5,10 +5,10 @@ export const About = () => {
     <div className="bg-white p-8">
       <div className="text-center">
         <h2 className="text-orange-500 font-bold">GROW NATURALLY</h2>
-        <h1 className="text-4xl font-bold text-green-900 mt-4">
-          Welcome to Agrilink
+        <h1 className="text-4xl font-bold text-green-900 mt-4 text-2xl">
+          Welcome to AgriLink
         </h1>
-        <p className="text-gray-700 mt-4">
+        <p className="text-gray-700 mt-4 font-semibold text-lg">
           Agrilink is India&apos;s leading Food & Agribusiness Counseling
           Organization committed to helping Farmers, People, Business
           visionaries, New companies, SMEs, and Corporate Associations,
@@ -27,7 +27,7 @@ export const About = () => {
       <div className="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
         <div className="text-center">
           <img
-            src="./assets/item2.png"
+            src="https://krishiunnati.org/wp-content/uploads/2020/06/icons8-natural-food-64-1.png"
             alt="Natural Products"
             className="mx-auto"
           />
@@ -38,7 +38,7 @@ export const About = () => {
         </div>
         <div className="text-center">
           <img
-            src=""
+            src="https://krishiunnati.org/wp-content/uploads/2020/06/icons8-cow-64.png"
             alt="Cattle"
             className="mx-auto"
           />
@@ -49,7 +49,7 @@ export const About = () => {
         </div>
         <div className="text-center">
           <img
-            src="wheat-cultivation-icon.png"
+            src="https://krishiunnati.org/wp-content/uploads/2020/06/icons8-wheat-64.png"
             alt="Wheat Cultivation"
             className="mx-auto"
           />
@@ -60,7 +60,7 @@ export const About = () => {
         </div>
         <div className="text-center">
           <img
-            src="modern-truck-icon.png"
+            src="https://krishiunnati.org/wp-content/uploads/2020/06/icons8-semi-truck-64.png"
             alt="Modern Truck"
             className="mx-auto"
           />
