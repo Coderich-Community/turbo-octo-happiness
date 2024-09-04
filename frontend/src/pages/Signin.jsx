@@ -1,5 +1,5 @@
 
-const Signin= () => {
+export const Signin= () => {
   return (
     <div className="flex items-center justify-center min-h-screen bg-gradient-to-br from-green-400 to-green-600">
       <div className="bg-white bg-opacity-30 backdrop-blur-md p-8 rounded-lg shadow-lg max-w-md w-full">
@@ -53,4 +53,3 @@ const Signin= () => {
   );
 };
 
-export default Signin;
