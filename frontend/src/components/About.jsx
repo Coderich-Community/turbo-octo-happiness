@@ -5,10 +5,10 @@ const About = () => {
     <div className="bg-white p-8">
       <div className="text-center">
         <h2 className="text-orange-500 font-bold">GROW NATURALLY</h2>
-        <h1 className="text-4xl font-bold text-green-900 mt-4">
-          Welcome to Agrilink
+        <h1 className="text-4xl font-bold text-green-900 mt-4 text-2xl">
+          Welcome to AgriLink
         </h1>
-        <p className="text-gray-700 mt-4">
+        <p className="text-gray-700 mt-4 font-semibold text-lg">
           Agrilink is India&apos;s leading Food & Agribusiness Counseling
           Organization committed to helping Farmers, People, Business
           visionaries, New companies, SMEs, and Corporate Associations,

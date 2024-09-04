@@ -5,6 +5,7 @@ import { Contract } from "../components/Contract"
 import { Corousel } from "../components/Corousel"
 import { Footer } from "../components/Footer"
 import { Navbar } from "../components/Navbar"
+import Review from "../components/Review"
 
 export const Home = () =>{
 
@@ -13,6 +14,7 @@ export const Home = () =>{
            <Navbar/>
            <Corousel /> 
            <About/>
+           <Review />
            <div className="flex justify-center">
            <Contract/>
            </div>
