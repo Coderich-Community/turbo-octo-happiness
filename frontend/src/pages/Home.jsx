@@ -2,7 +2,7 @@
 import About from "../components/About"
 import { ContactUs } from "../components/ContactUs"
 import { Contract } from "../components/Contract"
-import { Corousel } from "../components/Corousel"
+import { Corousel } from "../components/corousel"
 import { Navbar } from "../components/Navbar"
 
 export const Home = () =>{
