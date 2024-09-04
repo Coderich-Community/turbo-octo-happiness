@@ -1,5 +1,5 @@
 export const Navbar = () =>{
-    //
+
   return (
     <nav className="bg-gray-800 p-4  border-gray">
       <div className="container mx-auto flex justify-evenly items-center">
@@ -31,9 +31,6 @@ export const Navbar = () =>{
           </a>
        
         </div>
-        
-          
-         
       </div>
     </nav>
   );
