@@ -10,9 +10,9 @@ export const Contract = () => {
         alt="Contact Farming"
       />
       <div className="px-6 py-4">
-        <div className="font-bold text-xl mb-2">Contact Farming</div>
+        <div className="font-bold text-xl mb-2">Contract Farming</div>
         <p className="text-gray-700 text-base">
-          The Government of India's National Agriculture Policy envisages that "Private sector
+          The Government of India&apos;s National Agriculture Policy envisages that &#34;Private sector&#34;
         </p>
       </div>
       <div className="px-6 pt-4 pb-2">
@@ -24,5 +24,4 @@ export const Contract = () => {
    </div>
   );
 };
-
 
