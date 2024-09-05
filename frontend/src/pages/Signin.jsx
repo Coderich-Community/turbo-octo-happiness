@@ -3,7 +3,7 @@ import logo2 from "./../assets/logo-transparent-png.png"
 
 export const Signin = () => {
   return (
-    <div className="bg-gradient-to-r from-green-500 to-green-800">
+    <section className="bg-gradient-to-r from-green-500 to-green-800">
       <div className="flex justify-center h-screen">
         <div className="hidden bg-cover lg:block lg:w-2/3" style={{ backgroundImage: 'url(https://images.pexels.com/photos/2132250/pexels-photo-2132250.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1&auto=format&fit=crop&w=1470&q=80)' }}>
           <div className="flex items-center h-full px-20 bg-gray-900 bg-opacity-40">
@@ -56,7 +56,7 @@ export const Signin = () => {
           </div>
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 
