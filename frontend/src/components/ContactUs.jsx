@@ -1,5 +1,3 @@
-
-
 export const ContactUs = () => {
   return (
     <section id="contact">
@@ -55,22 +53,34 @@ export const ContactUs = () => {
           <div className="flex space-x-4">
             <a href="#" className="text-white">
               <div className="w-8 h-8">
-                <img src="https://i.pinimg.com/736x/0c/78/d0/0c78d03cbfa19d5f3d7ad1b6e49f957b.jpg" alt="LinkedIn" />
+                <img
+                  src="https://i.pinimg.com/736x/0c/78/d0/0c78d03cbfa19d5f3d7ad1b6e49f957b.jpg"
+                  alt="LinkedIn"
+                />
               </div>
             </a>
             <a href="#" className="text-white">
               <div className="w-8 h-8">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwD0GVoucdBDsZvP6GDwB700bReUXpsEKA7A&s" alt="Facebook" />
+                <img
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwD0GVoucdBDsZvP6GDwB700bReUXpsEKA7A&s"
+                  alt="Facebook"
+                />
               </div>
             </a>
             <a href="#" className="text-white">
               <div className="w-8 h-8">
-                <img src="https://png.pngtree.com/element_our/sm/20180630/sm_5b37de3263964.jpg" alt="Instagram" />
+                <img
+                  src="https://png.pngtree.com/element_our/sm/20180630/sm_5b37de3263964.jpg"
+                  alt="Instagram"
+                />
               </div>
             </a>
             <a href="#" className="text-white">
               <div className="w-8 h-8">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdkbq-094WlodH_1w7xW6QoUqoafZcgLPKbA&s" alt="Twitter" />
+                <img
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdkbq-094WlodH_1w7xW6QoUqoafZcgLPKbA&s"
+                  alt="Twitter"
+                />
               </div>
             </a>
           </div>
@@ -113,11 +123,8 @@ export const ContactUs = () => {
               SEND MESSAGE
             </button>
           </form>
-
         </div>
       </div>
     </section>
   );
 };
-
-

@@ -1,76 +1,76 @@
-  {
+{
   "reviews": [
-        {
-            "id": 1,
-            "service": "Contract Farming",
-            "userId": 2,
-            "userName": "Alice Johnson",
-            "rating": 4,
-            "comment": "The contract farming system with ABC Farms has been a great experience. The process of negotiating the contract was transparent and the terms were fair. I appreciated the support in finding reliable buyers for my produce. The timely payments have helped me better plan my farming activities."
-        },
-        {
-            "id": 10,
-            "service": "Contract Farming",
-            "userId": 1,
-            "userName": "John Wilson",
-            "rating": 4.5,
-            "comment": "The contract farming platform has been a game-changer for my business. The ability to secure a guaranteed market for my crops has provided much-needed income stability. The automated contract management and payment system work seamlessly. I highly recommend this service to fellow farmers."
-        },
-        {
-            "id": 3,
-            "service": "Contract Farming",
-            "userId": 4,
-            "userName": "Carla Smith",
-            "rating": 4.2,
-            "comment": "I recently signed up for the contract farming service and have been quite satisfied. The platform connected me with reputable buyers, and the contract negotiation process was straightforward. However, I would appreciate if the system could provide more market intelligence to help me make informed decisions about pricing and crop planning."
-        },
-        {
-            "id": 4,
-            "service": "Contract Farming",
-            "userId": 5,
-            "userName": "David Thompson",
-            "rating": 4.7,
-            "comment": "The contract farming platform has exceeded my expectations. The tools for managing contracts and tracking payments are user-friendly. The support team has been responsive in resolving any issues. I'm particularly impressed by the quality assurance measures that ensure fair evaluation of my produce. This has been a valuable service for my farming business."
-        },
-        {
-            "id": 5,
-            "service": "Contract Farming",
-            "userId": 6,
-            "userName": "Emily White",
-            "rating": 4.3,
-            "comment": "Signing up for the contract farming service has provided me with a reliable market for my crops. The platform's logistics integration has made the delivery process smooth. However, I would like to see more options for customizing contract terms to better suit my farming needs."
-        },
-        {
-            "id": 6,
-            "service": "Contract Farming",
-            "userId": 7,
-            "userName": "Frank Davis",
-            "rating": 4.8,
-            "comment": "I'm extremely satisfied with the contract farming service. The platform's user-friendly interface made it easy to list my products and connect with buyers. The dispute resolution system has also been helpful in addressing any disagreements. Overall, this service has significantly improved my income stability and reduced market risks."
-        },
-        {
-            "id": 7,
-            "service": "Contract Farming",
-            "userId": 8,
-            "userName": "Grace Wilson",
-            "rating": 4.6,
-            "comment": "The contract farming platform has been a valuable resource for my farming business. The ability to negotiate contracts and manage payments digitally has streamlined my operations. The market intelligence features have also helped me make more informed decisions about crop planning and pricing. I would recommend this service to any farmer looking to secure a stable market for their produce."
-        },
-        {
-            "id": 8,
-            "service": "Contract Farming",
-            "userId": 9,
-            "userName": "Henry Martinez",
-            "rating": 4.9,
-            "comment": "Participating in the contract farming program has been a game-changer for my farming business. The platform's comprehensive features, including contract management, quality assurance, and logistics integration, have made the entire process seamless. The timely payments and reduced market risks have significantly improved my financial stability. I'm extremely satisfied with this service and highly recommend it to fellow farmers."
-        },
-        {
-            "id": 9,
-            "service": "Contract Farming",
-            "userId": 10,
-            "userName": "Irene Clark",
-            "rating": 4.4,
-            "comment": "The contract farming service has provided me with a reliable and stable market for my agricultural products. The platform's user-friendly interface and comprehensive features have made it easy to manage contracts, track payments, and coordinate logistics. While I would appreciate more flexibility in contract terms, overall, this service has been a valuable asset for my farming operation."
-        }
-    ]
+    {
+      "id": 1,
+      "service": "Contract Farming",
+      "userId": 2,
+      "userName": "Alice Johnson",
+      "rating": 4,
+      "comment": "The contract farming system with ABC Farms has been a great experience. The process of negotiating the contract was transparent and the terms were fair. I appreciated the support in finding reliable buyers for my produce. The timely payments have helped me better plan my farming activities."
+    },
+    {
+      "id": 10,
+      "service": "Contract Farming",
+      "userId": 1,
+      "userName": "John Wilson",
+      "rating": 4.5,
+      "comment": "The contract farming platform has been a game-changer for my business. The ability to secure a guaranteed market for my crops has provided much-needed income stability. The automated contract management and payment system work seamlessly. I highly recommend this service to fellow farmers."
+    },
+    {
+      "id": 3,
+      "service": "Contract Farming",
+      "userId": 4,
+      "userName": "Carla Smith",
+      "rating": 4.2,
+      "comment": "I recently signed up for the contract farming service and have been quite satisfied. The platform connected me with reputable buyers, and the contract negotiation process was straightforward. However, I would appreciate if the system could provide more market intelligence to help me make informed decisions about pricing and crop planning."
+    },
+    {
+      "id": 4,
+      "service": "Contract Farming",
+      "userId": 5,
+      "userName": "David Thompson",
+      "rating": 4.7,
+      "comment": "The contract farming platform has exceeded my expectations. The tools for managing contracts and tracking payments are user-friendly. The support team has been responsive in resolving any issues. I'm particularly impressed by the quality assurance measures that ensure fair evaluation of my produce. This has been a valuable service for my farming business."
+    },
+    {
+      "id": 5,
+      "service": "Contract Farming",
+      "userId": 6,
+      "userName": "Emily White",
+      "rating": 4.3,
+      "comment": "Signing up for the contract farming service has provided me with a reliable market for my crops. The platform's logistics integration has made the delivery process smooth. However, I would like to see more options for customizing contract terms to better suit my farming needs."
+    },
+    {
+      "id": 6,
+      "service": "Contract Farming",
+      "userId": 7,
+      "userName": "Frank Davis",
+      "rating": 4.8,
+      "comment": "I'm extremely satisfied with the contract farming service. The platform's user-friendly interface made it easy to list my products and connect with buyers. The dispute resolution system has also been helpful in addressing any disagreements. Overall, this service has significantly improved my income stability and reduced market risks."
+    },
+    {
+      "id": 7,
+      "service": "Contract Farming",
+      "userId": 8,
+      "userName": "Grace Wilson",
+      "rating": 4.6,
+      "comment": "The contract farming platform has been a valuable resource for my farming business. The ability to negotiate contracts and manage payments digitally has streamlined my operations. The market intelligence features have also helped me make more informed decisions about crop planning and pricing. I would recommend this service to any farmer looking to secure a stable market for their produce."
+    },
+    {
+      "id": 8,
+      "service": "Contract Farming",
+      "userId": 9,
+      "userName": "Henry Martinez",
+      "rating": 4.9,
+      "comment": "Participating in the contract farming program has been a game-changer for my farming business. The platform's comprehensive features, including contract management, quality assurance, and logistics integration, have made the entire process seamless. The timely payments and reduced market risks have significantly improved my financial stability. I'm extremely satisfied with this service and highly recommend it to fellow farmers."
+    },
+    {
+      "id": 9,
+      "service": "Contract Farming",
+      "userId": 10,
+      "userName": "Irene Clark",
+      "rating": 4.4,
+      "comment": "The contract farming service has provided me with a reliable and stable market for my agricultural products. The platform's user-friendly interface and comprehensive features have made it easy to manage contracts, track payments, and coordinate logistics. While I would appreciate more flexibility in contract terms, overall, this service has been a valuable asset for my farming operation."
+    }
+  ]
 }

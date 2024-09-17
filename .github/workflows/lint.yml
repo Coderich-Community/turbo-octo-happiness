@@ -3,15 +3,13 @@ name: Linting and formatting on PR and Commit
 on:
   pull_request:
     branches:
-      - '**' # Runs on pull requests for all branches
+      - "**" # Runs on pull requests for all branches
   push:
     branches:
-      - '**' # Runs on any push to any branch
+      - "**" # Runs on any push to any branch
 
 jobs:
-
   Continuous-Integration:
-
     name: Performs linting and formatting on the application
     runs-on: ubuntu-latest
 
@@ -27,3 +25,6 @@ jobs:
 
       - name: Check formatting
         run: npm run format:check
+
+      - name: preetier formatting
+        run:  npx prettier --write

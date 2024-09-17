@@ -1,4 +1,3 @@
-
 import React from "react";
 import reviewsData from "../data/review.json";
 import { IoStar } from "react-icons/io5";
@@ -6,12 +5,15 @@ import { IoStar } from "react-icons/io5";
 const Review = () => {
   const reviews = reviewsData.reviews;
   return (
-    <section className="w-[100vw] overflow-x-hidden h-auto relative flex flex-col justify-center items-center gap-[4vh] mt-[20vh] mb-[15vh]" id="reviews">
+    <section
+      className="w-[100vw] overflow-x-hidden h-auto relative flex flex-col justify-center items-center gap-[4vh] mt-[20vh] mb-[15vh]"
+      id="reviews"
+    >
       <div className="absolute left-0 -top-[250px] hidden md:hidden lg:block xl:block">
         <img src="" alt="midLeft" />
       </div>
       <div className="w-[100%] mx-auto font-semibold text-center text-3xl">
-        <h1>See what happy customers are saying about AgriLink's</h1>  
+        <h1>See what happy customers are saying about AgriLink's</h1>
       </div>
       <div className="flex flex-wrap w-full md:w-full lg:w-[85%] xl:w-[85%] mx-auto justify-center items-center gap-x-10 ">
         {reviews.map((review) => (
@@ -29,8 +31,8 @@ const Review = () => {
                 <IoStar />
               </div>
             </div>
-            
-              {review.comment}
+
+            {review.comment}
             <h1
               className="text-xl font-semibold pt-2 text-[#386842]"
               style={{ WebkitTextStroke: ".3px #386842" }}
@@ -40,7 +42,6 @@ const Review = () => {
           </div>
         ))}
       </div>
-    
     </section>
   );
 };
