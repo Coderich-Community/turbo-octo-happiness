@@ -11,7 +11,7 @@
     "start": "node index.js",
     "test": "jest",
     "lint:check": "eslint .",
-    "lint:fix": "eslint --max-warnings 0 --config .eslintrc . --fix",
+    "lint:fix": "eslint . --fix",
     "format:fix": "prettier --write \"**/*.{js,ts,tsx,json}\"",
     "format:check": "prettier --check \"**/*.{js,ts,tsx,json}\""
   },
@@ -20,6 +20,7 @@
     "eslint": "^8.57.1",
     "eslint-plugin-react": "^7.36.1",
     "globals": "^15.9.0",
+    "lint": "^1.1.2",
     "prettier": "^3.3.3"
   },
   "author": "",
