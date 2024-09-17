@@ -7,13 +7,7 @@
     "dev": "vite --port 5124",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview",
-    "test:integration": "./scripts/run-integration.sh",
-    "coverage": "vitest run -c ./vitest.config.unit.ts --coverage",
-    "lint:check": "eslint .",
-    "start": "node index.js",
-    "test": "jest",
-    "lint:fix": "eslint --max-warnings 0 --config .eslintrc . --fix"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@material-tailwind/react": "^2.1.10",

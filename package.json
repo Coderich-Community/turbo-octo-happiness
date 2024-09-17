@@ -4,7 +4,23 @@
   "description": "<h1> AgriLink <h1>",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview",
+    "test:integration": "./scripts/run-integration.sh",
+    "coverage": "vitest run -c ./vitest.config.unit.ts --coverage",
+    "start": "node index.js",
+    "test": "jest",
+    "lint:check": "eslint .",
+    "lint:fix": "eslint --max-warnings 0 --config .eslintrc . --fix",
+    "format:fix": "prettier --write \"**/*.{js,ts,tsx,json}\"",
+    "format:check": "prettier --check \"**/*.{js,ts,tsx,json}\""
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.1",
+    "eslint-plugin-react": "^7.36.1",
+    "globals": "^15.9.0",
+    "prettier": "^3.3.3"
   },
   "author": "",
   "license": "ISC"
