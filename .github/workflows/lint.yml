@@ -25,6 +25,3 @@ jobs:
 
       - name: Check formatting
         run: npm run format:check
-
-      - name: preetier formatting
-        run:  npx prettier --write
